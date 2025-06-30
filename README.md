@@ -4,10 +4,19 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/luis-garbayo-4629862ba/" target="_blank">
-  <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/luis-garbayo-4629862ba/" target="_blank" rel="noopener noreferrer">
+        <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
+      </a>
+    </td>
+    <td style="width: 20px;"></td> <!-- espacio entre iconos -->
+    <td>
+      <a href="mailto:lugarbayo@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="mailto:lugarbayo@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />
-</a>
