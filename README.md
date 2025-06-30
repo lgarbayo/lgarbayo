@@ -4,4 +4,6 @@
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/luis-garbayo-4629862ba/"><img alt="LinkedIn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonos8.es%2Ficon%2F13930%2Flinkedin&psig=AOvVaw1vJnU7RIk6nsVDH9gSl1aC&ust=1751387043282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjCh6bHmY4DFQAAAAAdAAAAABAE"></a>
+<a href="https://www.linkedin.com/in/luis-garbayo-4629862ba/" target="_blank">
+  <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
+</a>
