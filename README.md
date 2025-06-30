@@ -11,7 +11,6 @@
         <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
       </a>
     </td>
-    <td style="width: 20px;"></td> <!-- espacio entre iconos -->
     <td>
       <a href="mailto:lugarbayo@gmail.com" target="_blank" rel="noopener noreferrer">
         <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />
