@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/luis-garbayo-4629862ba/" target="_blank">
   <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" />
 </a>
-<a href="lugarbayo@gmail.com" target="_blank" rel="noopener noreferrer">
+
+<a href="mailto:lugarbayo@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" />
 </a>
