@@ -11,6 +11,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### Visitors Count
-[![](https://visitcount.itsvg.in/api?id=lgarbayo&icon=3&color=8)](https://visitcount.itsvg.in)
