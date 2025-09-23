@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.jpg"
        alt="Luis Garbayo"
-       width="200"
-       style="border-radius: 50%; border: 4px solid #2e86de; box-shadow: 0px 4px 20px rgba(0,0,0,0.6);" />
+       width="200"/>
 </p>
+
+<h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
+<h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
 
 #  About Me
 👋 Hi! I'm a computer engineering based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Cloud Computing**, **Artificial Intelligence**, and developing innovative **web solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems.
