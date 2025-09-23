@@ -7,14 +7,25 @@
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
 <h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/luis-garbayo/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lugarbayo@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+         alt="Gmail" width="40" height="40"/>
+  </a>
+</p>
+
 #  About Me
 👋 Hi! I'm a computer engineering based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Cloud Computing**, **Artificial Intelligence**, and developing innovative **web solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems.
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgarbayo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=dark)
 
-##  Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com) 
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
