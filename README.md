@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.jpg"
        alt="Luis Garbayo"
        width="200"
-       style="border-radius: 50%; border: 4px solid #2e86de; box-shadow: 0px 0px 15px rgba(0,0,0,0.5);" />
+       style="border-radius: 50%; border: 4px solid #2e86de; box-shadow: 0px 4px 20px rgba(0,0,0,0.6);" />
 </p>
 
 #  About Me
