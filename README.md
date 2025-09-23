@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.jpg"
+  <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png"
        alt="Luis Garbayo"
        width="200"/>
 </p>
