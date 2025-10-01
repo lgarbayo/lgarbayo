@@ -1,11 +1,10 @@
-<p align="center">
-  <span style="font-size:40px; font-weight:bold;">&lt;</span>
+<p align="center" style="font-size:200px; line-height:200px;">
+  &lt;
   <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png"
        alt="Luis Garbayo"
        width="200"/>
-  <span style="font-size:40px; font-weight:bold;">&gt;</span>
+  &gt;
 </p>
-
 
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
 <h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
