@@ -1,12 +1,4 @@
-<p align="center" style="line-height: 0;">
-  <span style="font-size:4em; vertical-align: middle;">&lt;</span>
-  <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png" 
-       alt="Luis Garbayo" 
-       width="200" 
-       style="vertical-align: middle;"/>
-  <span style="font-size:4em; vertical-align: middle;">&gt;</span>
-</p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png" alt="Luis Garbayo" width="200"/> </p>
 
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
 <h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
