@@ -1,9 +1,11 @@
-<p align="center" style="font-size:200px; line-height:200px;">
-  &lt;
-  <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png"
-       alt="Luis Garbayo"
-       width="200"/>
-  &gt;
+<p align="center">
+  <h1 align="center">
+    &lt;
+    <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png"
+         alt="Luis Garbayo"
+         width="200"/>
+    &gt;
+  </h1>
 </p>
 
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
