@@ -18,7 +18,7 @@
 
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgarbayo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=dark)
+![Top Langs](![Top Langs](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=dark&cache_seconds=3600))
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
