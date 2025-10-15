@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
 <h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
 
-## 📫 Contacto
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayogmail.com)
