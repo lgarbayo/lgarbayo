@@ -1,11 +1,8 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png" alt="Luis Garbayo" width="200"/> </p>
 
-<h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
-
-## 📫 Contact
-
+<h1 align="center">👋 Hi, I'm Luis Garbayo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayogmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayogmail.com)</h1>
 
 #  About Me
 👋 Hi! I'm a computer engineering based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Cloud Computing**, **Artificial Intelligence**, and developing innovative **web solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems.
