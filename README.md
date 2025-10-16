@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/profile-pic.png" alt="Luis Garbayo" width="200"/> </p>
 
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
-<h3 align="center">💻 Cloud & AI Enthusiast | 🌐 Web Solutions Developer</h3>
 
 ## 📫 Contact
 
