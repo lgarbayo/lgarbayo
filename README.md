@@ -14,7 +14,7 @@
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
 
 
-![Luis's GitHub stats]((https://github-readme-stats.vercel.app/api?username=lgarbayo&show_icons=true&theme=tokyonight))
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgarbayo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=dark)
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
