@@ -15,7 +15,10 @@
 - 🛠️ Tools: Docker, Git, Linux
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&langs_count=8&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lgarbayo&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
 ### ✍️ Random Dev Quote
