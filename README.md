@@ -15,7 +15,7 @@
 - 🛠️ Tools: Docker, Git, Linux
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
 
-![GitHub Stats](https://github-readme-stats-three-wcad-92.vercel.app/api?username=lgarbayo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-three-woad-92.vercel.app/api?username=lgarbayo&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-three-wcad-92.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&theme=tokyonight)
 
