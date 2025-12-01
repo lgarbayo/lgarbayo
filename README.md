@@ -22,13 +22,13 @@
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
-<table style="border-collapse: collapse;">
+<table>
   <tr>
-    <td style="border: none; padding-right: 20px;">
+    <td>
       <h3>✍️ Random Dev Quote</h3>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&animation=fadeIn" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn" />
     </td>
-    <td style="border: none;">
+    <td>
       <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png" width="350px" />
     </td>
   </tr>
