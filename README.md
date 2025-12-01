@@ -21,7 +21,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%;">
   <tr>
     <!-- COLUMNA 1: TECH STACK -->
-    <td style="vertical-align: top; width: 50%; padding-right: 20px;">
+    <td>
       ## Tech Stack
       - 💻 Languages: Java, JavaScript, TypeScript Python, C++, HTML, CSS, SQL  
       - 🧩 Frameworks: Spring Boot, Angular  
@@ -29,7 +29,7 @@
       - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence  
     </td>
     <!-- COLUMNA 2: RANDOM QUOTE -->
-    <td style="vertical-align: top; width: 50%;">
+    <td>
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn" />
     </td>
