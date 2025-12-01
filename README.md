@@ -15,15 +15,16 @@
 - 🧩 Frameworks: Spring Boot, Angular
 - 🛠️ Tools: Docker, Git, Linux
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
-- 
+
 <!--![GitHub Stats](https://github-readme-stats-three-woad-92.vercel.app/api?username=lgarbayo&show_icons=true&count_private=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats-three-woad-92.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&langs_count=8&count_private=true&theme=dark)-->
 
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
-### ✍️ Random Dev Quote 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn"
-     style="display: block; width: 100%; max-width: 700px; margin: 0 auto;" />
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn"
+     style="width: 100%; display: block; margin: 0 auto;" />
+
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
 
