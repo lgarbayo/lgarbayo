@@ -22,7 +22,8 @@
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
 
 
 
