@@ -25,16 +25,13 @@
 <table>
   <tr>
     <td>
-      
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn" />
-
     </td>
     <td>
-
       <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png" width="350px" />
-
     </td>
   </tr>
 </table>
+
 
