@@ -24,7 +24,7 @@
 
 ### ✍️ Random Dev Quote & GitHub Stats
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
-![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.png)
+![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.jpg)
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
 
