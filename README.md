@@ -24,7 +24,7 @@
 
 ### ✍️ Random Dev Quote & GitHub Stats
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
-![](https://github-readme-stats-three-woad-92.vercel.app/api?username=lgarbayo&show_icons=true&count_private=true&theme=gruvbox)
+![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/web.avif)
 
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
