@@ -22,9 +22,22 @@
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
-### ✍️ Random Dev Quote & GitHub Stats
+<!--### ✍️ Random Dev Quote & GitHub Stats
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
-![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.jpg)
+![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.jpg)-->
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3> ✍️ Random Dev Quote </h3>
+      <br>
+      <img src="(https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)" alt="Random Dev Quote">
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.jpg" alt="ENIAC Computer" width="350px">
+    </td>
+  </tr>
+</table>
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
 
