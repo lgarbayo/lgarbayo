@@ -23,7 +23,7 @@
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn"
-     style="width: 100%; display: block; margin: 0 auto;" />
+     style="display: block; width: 100%; max-width: 700px; margin: 0 auto;" />
 
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
