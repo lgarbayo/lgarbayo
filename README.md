@@ -31,7 +31,7 @@
     <td width="60%" valign="top">
       <h3> ✍️ Random Dev Quote </h3>
       <br>
-      <img src="(https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)" alt="Random Dev Quote">
+       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"/>
     </td>
     <td width="40%" valign="center" align="center">
       <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/unnamedd.jpg" alt="ENIAC Computer" width="350px">
