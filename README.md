@@ -25,5 +25,7 @@
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
 
+![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
+
 
 
