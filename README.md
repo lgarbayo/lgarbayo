@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/banner-me.png" alt="Luis Garbayo"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/me.png" alt="Luis Garbayo"/> </p>
 
 <h1 align="center">👋 Hi, I'm Luis Garbayo</h1>
 
