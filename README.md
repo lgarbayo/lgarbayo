@@ -22,40 +22,10 @@
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
 
-<div style="
-  width: 100%;
-  background-color: #282a36;
-  border: 2px solid #bd93f9;
-  border-radius: 12px;
-  padding: 20px;
-  color: #f8f8f2;
-  font-family: sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
-  margin-bottom: 20px;
-">
-
-  <h3 style="margin-top:0;">✍️ Random Dev Quotes</h3>
-
-  <div style="display: flex; gap: 20px; justify-content: space-between;">
-    <!-- Quote 1 -->
-    <div style="flex: 1; text-align: center;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
-           style="max-height: 140px; width:auto;" />
-    </div>
-    <!-- Quote 2 -->
-    <div style="flex: 1; text-align: center;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
-           style="max-height: 140px; width:auto;" />
-    </div>
-    <!-- Quote 3 -->
-    <div style="flex: 1; text-align: center;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
-           style="max-height: 140px; width:auto;" />
-    </div>
-
-  </div>
-</div>
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=true&animation=fadeIn)
 
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
