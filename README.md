@@ -21,6 +21,7 @@
 
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-garbayo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)-->
+
 <div style="
   width: 100%;
   background-color: #282a36;
@@ -33,17 +34,29 @@
   line-height: 1.6;
   margin-bottom: 20px;
 ">
-  
-  <div style="display: flex; align-items: center;">
-    <!-- Quote text -->
-    <div style="flex: 1; padding-right: 20px;">
-      <h3 style="margin-top:0;">✍️ Random Dev Quote</h3>
+
+  <h3 style="margin-top:0;">✍️ Random Dev Quotes</h3>
+
+  <div style="display: flex; gap: 20px; justify-content: space-between;">
+    <!-- Quote 1 -->
+    <div style="flex: 1; text-align: center;">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
-           style="max-height: 120px; width:auto; vertical-align: middle;" />
+           style="max-height: 140px; width:auto;" />
+    </div>
+    <!-- Quote 2 -->
+    <div style="flex: 1; text-align: center;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
+           style="max-height: 140px; width:auto;" />
+    </div>
+    <!-- Quote 3 -->
+    <div style="flex: 1; text-align: center;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&quoteCategory=programming&border=false&animation=fadeIn"
+           style="max-height: 140px; width:auto;" />
     </div>
 
   </div>
 </div>
+
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
 
