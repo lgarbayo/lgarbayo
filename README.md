@@ -31,7 +31,7 @@
 <div align="center">
   <br>
   <h3>
-    <code> ✍️ "Always code as if the guy who ends up maintaining your code <br> will be a violent psychopath who knows where you live."</code>
+    <code> ✍️ "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."</code>
   </h3>
   <br>
   <p>— <i>John Woods</i></p>
