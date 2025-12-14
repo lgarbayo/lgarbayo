@@ -4,7 +4,7 @@
 </p>
 -->
 
-<p align="center" style="font-size: 2.2em; font-weight: bold;">
+<p align="center" style="font-size: 2.4em; font-weight: 700; margin-bottom: 0.6em;">
   👋 Hi, I'm Luis Garbayo
 </p>
 
