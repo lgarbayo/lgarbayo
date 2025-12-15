@@ -8,7 +8,7 @@
 👋 Hi! I'm Luis Garbayo, a computer engineering based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems.
 
 ## Tech Stack 
-- 💻 Languages: Java, JavaScript, TypeScript Python, C++, HTML, CSS, SQL
+- 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
 - 🧩 Frameworks: Spring Boot, Angular
 - 🛠️ Tools: Docker, Git, Linux
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
