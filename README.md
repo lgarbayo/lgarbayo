@@ -48,7 +48,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-light.svg#gh-light-mode-only" alt="Snake animation" />
+
 
 
 
