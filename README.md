@@ -25,8 +25,6 @@
 
 <!--### ✍️ Random Dev Quote-->
 
-<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake.svg" alt="Snake animation" />
-
 <div align="center">
   <br>
   <h3>
@@ -49,6 +47,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lgarbayo)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake.svg" alt="Snake animation" />
 
 
 
