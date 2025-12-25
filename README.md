@@ -25,7 +25,7 @@
 
 <!--### ✍️ Random Dev Quote-->
 
-<img src="https://github.com/lgarbayo/lgarbayo/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <br>
