@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![my web](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.dev)
+[![MY WEB](https://img.shields.io/badge/MY%20WEB-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lgarbayo)
