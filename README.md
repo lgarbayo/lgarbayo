@@ -27,6 +27,8 @@
 <p>AI-powered Galician language tutor built during Hacktoberfest 2025. Features real-time chat with Google Gemini integration, automatic grammar and spelling correction, 5 adaptive proficiency levels (A1–C1), user progress tracking, and a responsive web interface. Built with FastAPI, Reflex, and the Gemini API.</p>
 <a href="#">📂 Repo</a>
 </td>
+</tr>
+</table>
 
 ## Interesting Projects
 Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, this is called **atop(AI)**, the refinement of the task manager (**TaskGroup**) for its future deployment and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
