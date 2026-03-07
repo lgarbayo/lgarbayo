@@ -13,6 +13,44 @@
 - Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
 
 ## Hackaton Projects
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+<h3>🔍 MeigaSearch</h3>
+<p><em>HackUDC 2026</em></p>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI">
+<img src="https://img.shields.io/badge/Qdrant-ff4131?style=flat-square&logo=qdrant" alt="Qdrant">
+<p>Motor de búsqueda inteligente con RAG, búsqueda híbrida y OCR. Soporte multi-provider de IA.</p>
+<a href="#">📂 Repo</a> | <a href="#">🌐 Demo</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌍 Breogan</h3>
+<p><em>Hacktoberfest 2025 (AI Tutor)</em></p>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/Reflex-py-black?style=flat-square" alt="Reflex">
+<p>Tutor de lengua gallega con IA. Chat en tiempo real, corrección gramatical y niveles A1-C1.</p>
+<a href="#">📂 Repo</a> | <a href="#">🌐 Demo</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧬 SEED Algorithm</h3>
+<p><em>Data Analysis & Optimization</em></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas" alt="Pandas">
+<p>Optimización de ubicación de residencias en España usando modelos multicriterio y Haversine.</p>
+<a href="#">📂 Repo</a>
+</td>
+<td width="50%" valign="top">
+<h3>📅 Schedula / TaskGroup</h3>
+<p><em>Productivity Suite</em></p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+<p>Ecosistema de gestión de tareas colaborativas y clon funcional de Google Calendar.</p>
+<a href="#">📂 TaskGroup</a> | <a href="#">📂 Schedula</a>
+</td>
+</tr>
+</table>
 ### MeigaSearch - HackUDC 2026
 Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.
 
