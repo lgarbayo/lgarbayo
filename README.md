@@ -35,12 +35,15 @@ Now focused on the development of several projects such as the intelligent docum
 
 ### TaskGroup
 TaskGroup is a web-based project as a quarterly assignment for the "Web Technologies and Services" (TSW) course during the fourth year of degree. This repository features a collaborative task management application, focusing on core web development principles and the implementation of services designed to streamline group organization and productivity.
+<a href="https://github.com/lgarbayo/TaskGroup">📂 Repo</a>
 
 ### SEED Algorithm
 The SEED (Socio-Economic and Environmental Distribution) algorithm is a specialized decision-support tool developed in Python to optimize the geographical placement of elderly residences in Spain. By processing data from over 36,000 census sections from the INE, the algorithm evaluates three strategic pillars: Residential Demand (45%), Economic Viability (40%), and Territorial Saturation (15%). It utilizes a custom multicriteria model and a spatial clustering algorithm (using the Haversine formula) to prevent "cannibalization" between nearby facilities, ensuring a sustainable and efficient distribution of care centers.
+<a href="https://github.com/lgarbayo/seed-algorithm">📂 Repo</a>
 
 ### Portfolio Web
 This repository is a personal portfolio website designed to showcase a developer's professional journey. It serves as a central hub to highlight technical skills, academic background, and various software development projects. Built with a focus on modern web technologies, the site provides a clean and professional interface for recruiters and collaborators to explore the author's expertise and contact information.
+<a href="https://github.com/lgarbayo/portfolio-dev">📂 Repo</a>
 
 ## Tech Stack 
 - 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
