@@ -19,13 +19,13 @@
 <h3>🔍 MeigaSearch</h3>
 <p><em>HackUDC 2026</em></p>
 <p>Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.</p>
-<a href="#">📂 Repo</a>
+<a href="https://github.com/lgarbayo/HackUDC-2026">📂 Repo</a>
 </td>
 <td width="50%" valign="top">
 <h3>🌍 Breogan</h3>
 <p><em>Hacktoberfest 2025</em></p>
 <p>AI-powered Galician language tutor built during Hacktoberfest 2025. Features real-time chat with Google Gemini integration, automatic grammar and spelling correction, 5 adaptive proficiency levels (A1–C1), user progress tracking, and a responsive web interface. Built with FastAPI, Reflex, and the Gemini API.</p>
-<a href="#">📂 Repo</a>
+<a href="https://github.com/lgarbayo/hacktoberfest2025-aitutor-breogan">📂 Repo</a>
 </td>
 </tr>
 </table>
