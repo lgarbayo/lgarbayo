@@ -8,9 +8,9 @@
 👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems. You can find more information about me below in the link to my website ヅ
 
 ## Experience
-During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions.
-I am currently studying for a degree in **Computer Engineering** at Universidade de Vigo, where I also work as a **systems intern**. I also provide support as a mentor and ember of the faculty board.
-Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
+- During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions.
+- I am currently studying for a degree in **Computer Engineering** at Universidade de Vigo, where I also work as a **systems intern**. I also provide support as a mentor and ember of the faculty board.
+- Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
 
 ## Hackaton Projects
 
