@@ -5,7 +5,7 @@
 -->
 
 #  About Me
-👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Always eager to learn and create impactful projects that solve real-world problems. You can find more information about me below in the link to my website ヅ
+👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Driven by continuous learning and building solutions for real-world challenges. **I don’t just aim for impact; I am already delivering it through my ongoing projects**. You can find more information about me below in the link to my website ヅ
 
 ## Experience
 - During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions.
