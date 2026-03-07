@@ -13,6 +13,8 @@
 - Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
 
 ## Hackaton Projects
+### MeigaSearch - HackUDC 2026
+Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.
 
 ## Tech Stack 
 - 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
