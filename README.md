@@ -53,7 +53,7 @@ This repository is a personal portfolio website designed to showcase a developer
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
 
 
-Always looking for open-source collaborations and challenging technical projects to build together.
+🤝 **Always looking for open-source collaborations and challenging technical projects to build together**.
 
 
 <div align="center">
