@@ -8,9 +8,7 @@
 👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Driven by continuous learning and building solutions for real-world challenges. **I don’t just aim for impact; I am already delivering it through my ongoing projects**. You can find more information about me below in the link to my website ヅ
 
 ## Experience
-- During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions.
-- I am currently studying for a degree in **Computer Engineering** at Universidade de Vigo, where I also work as a **systems intern**. I also provide support as a mentor and ember of the faculty board.
-- Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
+💻 During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions. 🎓 I am currently studying for a degree in **Computer Engineering** at Universidade de Vigo, where I also work as a **systems intern**. I also provide support as a mentor and ember of the faculty board. 💡Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
 
 ## Hackaton Projects
 <table border="0">
@@ -33,17 +31,17 @@
 ## Interesting Projects
 Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, this is called **atop(AI)**, the refinement of the task manager (**TaskGroup**) for its future deployment and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
 
-### TaskGroup
+### 👥 TaskGroup
 TaskGroup is a web-based project as a quarterly assignment for the "Web Technologies and Services" (TSW) course during the fourth year of degree. This repository features a collaborative task management application, focusing on core web development principles and the implementation of services designed to streamline group organization and productivity.
 <br>
 <a href="https://github.com/lgarbayo/TaskGroup">📂 Repo</a>
 
-### SEED Algorithm
+### 📍 SEED Algorithm
 The SEED (Socio-Economic and Environmental Distribution) algorithm is a specialized decision-support tool developed in Python to optimize the geographical placement of elderly residences in Spain. By processing data from over 36,000 census sections from the INE, the algorithm evaluates three strategic pillars: Residential Demand (45%), Economic Viability (40%), and Territorial Saturation (15%). It utilizes a custom multicriteria model and a spatial clustering algorithm (using the Haversine formula) to prevent "cannibalization" between nearby facilities, ensuring a sustainable and efficient distribution of care centers.
 <br>
 <a href="https://github.com/lgarbayo/seed-algorithm">📂 Repo</a>
 
-### Portfolio Web
+### 🌐 Portfolio Web
 This repository is a personal portfolio website designed to showcase a developer's professional journey. It serves as a central hub to highlight technical skills, academic background, and various software development projects. Built with a focus on modern web technologies, the site provides a clean and professional interface for recruiters and collaborators to explore the author's expertise and contact information.
 <br>
 <a href="https://github.com/lgarbayo/portfolio-dev">📂 Repo </a> 👉 <a href="https://lgarbayo.dev/">lgarbayo.dev</a> 
