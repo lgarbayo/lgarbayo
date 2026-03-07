@@ -52,6 +52,21 @@ This repository is a personal portfolio website designed to showcase a developer
 - 🛠️ Tools: Docker, Git, Linux
 - ☁️ Interests: Software Engineering, Cloud Computing, Data Science, Artificial Intelligence
 
+
+Always looking for open-source collaborations and challenging technical projects to build together.
+
+
+<div align="center">
+
+[![MY WEB](https://img.shields.io/badge/MY%20WEB-2EA44F?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/lgarbayo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lgarbayo)
+
+
+</div>
+
 <!--![GitHub Stats](https://github-readme-stats-three-woad-92.vercel.app/api?username=lgarbayo&show_icons=true&count_private=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats-three-woad-92.vercel.app/api/top-langs/?username=lgarbayo&layout=compact&langs_count=8&count_private=true&theme=dark)-->
 
@@ -77,18 +92,6 @@ This repository is a personal portfolio website designed to showcase a developer
 
 
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
-
-
-<div align="center">
-
-[![MY WEB](https://img.shields.io/badge/MY%20WEB-2EA44F?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/lgarbayo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/lgarbayo)
-
-
-</div>
 
 <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-light.svg#gh-light-mode-only" alt="Snake animation" />
