@@ -11,22 +11,16 @@
 💻 During the last four months of 2025, I worked as a web development intern at **DataSpartan**, building and contributing to the creation of innovative web solutions. 🎓 I am currently studying for a degree in **Computer Engineering** at Universidade de Vigo, where I also work as a **systems intern**. I also provide support as a mentor and ember of the faculty board. 💡Experienced **hackathon participant** with a focus on agile teamwork and delivering functional prototypes under demanding deadlines.
 
 ## Hackaton Projects
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-<h3>🔍 MeigaSearch</h3>
-<p><em>HackUDC 2026</em></p>
-<p>Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.</p>
+
+### 🔍 MeigaSearch
+Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.
+<br>
 <a href="https://github.com/lgarbayo/HackUDC-2026">📂 Repo</a>
-</td>
-<td width="50%" valign="top">
-<h3>🌍 Breogan</h3>
-<p><em>Hacktoberfest 2025</em></p>
-<p>AI-powered Galician language tutor built during Hacktoberfest 2025. Features real-time chat with Google Gemini integration, automatic grammar and spelling correction, 5 adaptive proficiency levels (A1–C1), user progress tracking, and a responsive web interface. Built with FastAPI, Reflex, and the Gemini API.</p>
+
+### 🌍 Breogan
+AI-powered Galician language tutor built during Hacktoberfest 2025. Features real-time chat with Google Gemini integration, automatic grammar and spelling correction, 5 adaptive proficiency levels (A1–C1), user progress tracking, and a responsive web interface. Built with FastAPI, Reflex, and the Gemini API.
+<br>
 <a href="https://github.com/lgarbayo/hacktoberfest2025-aitutor-breogan">📂 Repo</a> 
-</td>
-</tr>
-</table>
 
 ## Interesting Projects
 Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, called **atop(AI)**; the refinement of the task manager (**TaskGroup**) for its future deployment; and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
