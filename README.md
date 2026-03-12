@@ -23,7 +23,7 @@ AI-powered Galician language tutor built during Hacktoberfest 2025. Features rea
 <a href="https://github.com/lgarbayo/hacktoberfest2025-aitutor-breogan">📂 Repo</a> 
 
 ## Interesting Projects
-Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, called **atop(AI)**; the refinement of the task manager (**TaskGroup**) for its future deployment; and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
+Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, called <a href="https://atopai.cloud/">atop(AI)</a>  ; the refinement of the task manager (**TaskGroup**) for its future deployment; and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
 
 ### 👥 TaskGroup
 TaskGroup is a web-based project as a quarterly assignment for the "Web Technologies and Services" (TSW) course during the fourth year of degree. This repository features a collaborative task management application, focusing on core web development principles and the implementation of services designed to streamline group organization and productivity.
