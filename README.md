@@ -12,33 +12,11 @@
 
 ## Hackaton Projects
 
-### 🔍 MeigaSearch
-Intelligent corporate document search engine built at HackUDC 2026. Features RAG-powered chat with citations, hybrid semantic + lexical search, OCR document ingestion, and support for multiple AI providers. Built with FastAPI, Celery, Redis, and Qdrant.
-<br>
-<a href="https://github.com/lgarbayo/HackUDC-2026">📂 Repo</a>
-
-### 🌍 Breogan
-AI-powered Galician language tutor built during Hacktoberfest 2025. Features real-time chat with Google Gemini integration, automatic grammar and spelling correction, 5 adaptive proficiency levels (A1–C1), user progress tracking, and a responsive web interface. Built with FastAPI, Reflex, and the Gemini API.
-<br>
-<a href="https://github.com/lgarbayo/hacktoberfest2025-aitutor-breogan">📂 Repo</a> 
+During my hackathon experience, I have developed innovative AI-driven solutions. At HackUDC 2026, I built **MeigaSearch** ([📂 Repo](https://github.com/lgarbayo/HackUDC-2026)), an intelligent corporate document search engine featuring RAG-powered chat, hybrid search, and OCR ingestion, built with FastAPI, Celery, Redis, and Qdrant. Previously, during Hacktoberfest 2025, I developed **Breogan** ([📂 Repo](https://github.com/lgarbayo/hacktoberfest2025-aitutor-breogan)), an interactive AI-powered Galician tutor with 5 adaptive proficiency levels, real-time correction, and progress tracking, built using FastAPI, Reflex, and the Gemini API.
 
 ## Interesting Projects
-Now focused on the development of several projects such as the intelligent document search engine based on the HackUDC 2026 project but adapted for students, called <a href="https://atopai.cloud/">atop(AI)</a>  ; the refinement of the task manager (**TaskGroup**) for its future deployment; and a clone of Google Calendar called **Schedula** that allows you to have all your events, tasks and meetings organized for personal and external use.
 
-### 👥 TaskGroup
-TaskGroup is a web-based project as a quarterly assignment for the "Web Technologies and Services" (TSW) course during the fourth year of degree. This repository features a collaborative task management application, focusing on core web development principles and the implementation of services designed to streamline group organization and productivity.
-<br>
-<a href="https://github.com/lgarbayo/TaskGroup">📂 Repo</a>
-
-### 📍 SEED Algorithm
-The SEED (Socio-Economic and Environmental Distribution) algorithm is a specialized decision-support tool developed in Python to optimize the geographical placement of elderly residences in Spain. By processing data from over 36,000 census sections from the INE, the algorithm evaluates three strategic pillars: Residential Demand (45%), Economic Viability (40%), and Territorial Saturation (15%). It utilizes a custom multicriteria model and a spatial clustering algorithm (using the Haversine formula) to prevent "cannibalization" between nearby facilities, ensuring a sustainable and efficient distribution of care centers.
-<br>
-<a href="https://github.com/lgarbayo/seed-algorithm">📂 Repo</a>
-
-### 🌐 Portfolio Web
-This repository is a personal portfolio website designed to showcase a developer's professional journey. It serves as a central hub to highlight technical skills, academic background, and various software development projects. Built with a focus on modern web technologies, the site provides a clean and professional interface for recruiters and collaborators to explore the author's expertise and contact information.
-<br>
-<a href="https://github.com/lgarbayo/portfolio-dev">📂 Repo </a> 👉 <a href="https://lgarbayo.dev/">lgarbayo.dev</a> 
+Currently, I am focused on developing **atop(AI)** ([🌐 Web](https://atopai.cloud/)), a student-adapted intelligent document search engine based on my HackUDC project; **Schedula**, a comprehensive calendar clone for event and task management; and preparing **TaskGroup** ([📂 Repo](https://github.com/lgarbayo/TaskGroup)), a collaborative web-based task manager originally built for university, for deployment. Alongside these active developments, my portfolio includes the **SEED Algorithm** ([📂 Repo](https://github.com/lgarbayo/seed-algorithm)), a Python decision-support tool utilizing multicriteria modeling and spatial clustering to optimize the geographical distribution of elderly care facilities across Spain, and my personal **Portfolio Web** ([📂 Repo](https://github.com/lgarbayo/portfolio-dev) | [👉 lgarbayo.dev](https://lgarbayo.dev/)), a modern central hub designed to showcase my professional journey, academic background, and technical expertise.
 
 ## Tech Stack 
 - 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
