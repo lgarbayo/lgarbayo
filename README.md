@@ -16,8 +16,8 @@ During my hackathon experience, I have developed innovative AI-driven solutions.
 
 ## Interesting Projects
 
-Currently, I am focused on developing **atop(AI)** ([🌐 Web](https://atopai.cloud/)), a student-adapted intelligent document search engine based on my HackUDC project; **Schedula**, a comprehensive calendar clone for event and task management; and preparing **TaskGroup** ([📂 Repo](https://github.com/lgarbayo/TaskGroup)), a collaborative web-based task manager originally built for university, for deployment. Alongside these active developments, my portfolio includes the **SEED Algorithm** ([📂 Repo](https://github.com/lgarbayo/seed-algorithm)), a Python decision-support tool utilizing multicriteria modeling and spatial clustering to optimize the geographical distribution of elderly care facilities across Spain, and my personal **Portfolio Web** ([📂 Repo](https://github.com/lgarbayo/portfolio-dev) | [👉 lgarbayo.dev](https://lgarbayo.dev/)), a modern central hub designed to showcase my professional journey, academic background, and technical expertise.
-
+Currently, I am focused on developing **atop(AI)**, a student-adapted intelligent document search engine based on my HackUDC project; **Schedula**, a comprehensive calendar clone for event and task management; and preparing **TaskGroup** ([📂 Repo](https://github.com/lgarbayo/TaskGroup)), a collaborative web-based task manager originally built for university, for deployment. Alongside these active developments, my portfolio includes the **SEED Algorithm** ([📂 Repo](https://github.com/lgarbayo/seed-algorithm)), a Python decision-support tool utilizing multicriteria modeling and spatial clustering to optimize the geographical distribution of elderly care facilities across Spain, and my personal **Portfolio Web** ([📂 Repo](https://github.com/lgarbayo/portfolio-dev) | [👉 lgarbayo.dev](https://lgarbayo.dev/)), a modern central hub designed to showcase my professional journey, academic background, and technical expertise.
+<!--([🌐 Web](https://atopai.cloud/))-->
 ## Tech Stack 
 - 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
 - 🧩 Frameworks: Spring Boot, Angular
