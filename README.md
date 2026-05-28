@@ -54,13 +54,7 @@ Currently, I am focused on developing **atop(AI)**, a student-adapted intelligen
   <br>
 </div>
 
-
-
 ![](https://raw.githubusercontent.com/lgarbayo/lgarbayo/main/our.png)
 
 <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/lgarbayo/lgarbayo/output/snake-light.svg#gh-light-mode-only" alt="Snake animation" />
-
-
-
-
