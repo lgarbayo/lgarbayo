@@ -5,11 +5,11 @@
 -->
 
 #  About Me
-👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Driven by continuous learning and building solutions for real-world challenges. **I don’t just aim for impact; I am already delivering it through my ongoing projects**. You can find more information about me below and in the link to my website <a href="https://lgarbayo.dev/">lgarbayo.dev</a> ヅ
+👋 Hi! I'm Luis Garbayo, a computer engineering student based in Ourense, Spain. I studied mathematics for two years before transitioning to my current field. I am passionate about **Artificial Intelligence** and developing innovative **technical solutions**. I focus on leveraging modern web technologies combined with cloud platforms and AI to build scalable, intelligent, and user-friendly applications. Driven by continuous learning and building solutions for real-world challenges. **I don’t just aim for impact; I am already delivering it through my ongoing projects**. You can find more information about me below and in the link to my website <a href="https://lgarbayo.com/">lgarbayo.com</a> ヅ
 
 ## Interesting Projects
 
-Currently, I am focused on developing **atop(AI)**, a student-adapted intelligent document search engine based on my HackUDC project, and **AxendaSMB**, a comprehensive calendar application for event management that integrates the features of **TaskGroup** ([📂 Repo](https://github.com/lgarbayo/TaskGroup)), a collaborative web-based task manager originally built for university, for deployment. Alongside these active developments, my portfolio includes the **SEED Algorithm** ([📂 Repo](https://github.com/lgarbayo/seed-algorithm)), a Python decision-support tool utilizing multicriteria modeling and spatial clustering to optimize the geographical distribution of elderly care facilities across Spain, and my personal **Portfolio Web** ([📂 Repo](https://github.com/lgarbayo/portfolio-dev) | [👉 lgarbayo.dev](https://lgarbayo.dev/)), a modern central hub designed to showcase my professional journey, academic background, and technical expertise.
+Currently, I am focused on developing **atop(AI)**, a student-adapted intelligent document search engine based on my HackUDC project, and **AxendaSMB**, a comprehensive calendar application for event management that integrates the features of **TaskGroup** ([📂 Repo](https://github.com/lgarbayo/TaskGroup)), a collaborative web-based task manager originally built for university, for deployment. Alongside these active developments, my portfolio includes the **SEED Algorithm** ([📂 Repo](https://github.com/lgarbayo/seed-algorithm)), a Python decision-support tool utilizing multicriteria modeling and spatial clustering to optimize the geographical distribution of elderly care facilities across Spain, and my personal **Portfolio Web** ([📂 Repo](https://github.com/lgarbayo/portfolio-dev) | [👉 lgarbayo.com](https://lgarbayo.com/)), a modern central hub designed to showcase my professional journey, academic background, and technical expertise.
 <!--([🌐 Web](https://atopai.cloud/))-->
 ## Tech Stack 
 - 💻 Languages: Java, JavaScript, TypeScript, HTML, CSS, SQL
@@ -23,7 +23,7 @@ Currently, I am focused on developing **atop(AI)**, a student-adapted intelligen
 
 <div align="center">
 
-[![MY WEB](https://img.shields.io/badge/MY%20WEB-2EA44F?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.dev)
+[![MY WEB](https://img.shields.io/badge/MY%20WEB-2EA44F?style=for-the-badge&logo=globe&logoColor=white)](https://lgarbayo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-garbayo/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/lgarbayo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugarbayo@gmail.com)
