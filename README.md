@@ -5,7 +5,7 @@ I build software and AI tools, mostly multi-agent systems for healthcare. Curren
 ## Projects
 
 - **[Agentic Smart Health](https://github.com/ANFAIA/Agentic-Smart-Health)**: multi-agent system that turns DICOM, STL and PDF dental data into a Gaussian Splatting digital twin. Built at ANFAIA ([🌐 site](https://agentic-smart-health.lgarbayo.com))
-- **[Taiafox](https://github.com/lgarbayo/HACKSPAIN-2026)**: crisis-response voice agent that replans resources in real time. HackSpain 2026
+- **[Taiafox](https://github.com/lgarbayo/HACKSPAIN-2026)**: crisis-response voice agent that replans resources in real time. HackSpain 2026 ([🌐 site](https://taiafox-ph-five.vercel.app/) · [Product Hunt](https://www.producthunt.com/products/taiafox))
 - **[MeigaSearch](https://github.com/lgarbayo/HackUDC-2026)**: document search engine with hybrid search and RAG chat with citations. HackUDC 2026 ([Devpost](https://devpost.com/software/meigasearch))
 - **[PeponBot](https://github.com/lgarbayo/pepon-bot)**: desktop robot built from an old Android phone, with local vision, speech and LLM reasoning
 - **[jeicob](https://github.com/lgarbayo/jeicob)**: terminal research agent that finds, indexes and summarises scientific papers with RAG
