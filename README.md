@@ -11,7 +11,7 @@ I build software and AI tools, mostly multi-agent systems for healthcare. Curren
 - **[PeponBot](https://github.com/lgarbayo/pepon-bot)**: desktop robot built from an old Android phone, with local vision, speech and LLM reasoning
 - **[jeicob](https://github.com/lgarbayo/jeicob)**: terminal research agent that finds, indexes and summarises scientific papers with RAG
 - **[SEED Algorithm](https://github.com/lgarbayo/seed-algorithm)**: spatial optimisation that picks 1,000 elderly-care sites out of 36,000 census tracts. Fundación Innovación Bankinter
-- - **[MeigaSearch](https://github.com/lgarbayo/HackUDC-2026)**: document search engine with hybrid search and RAG chat with citations. HackUDC 2026 ([Devpost](https://devpost.com/software/meigasearch))
+- **[MeigaSearch](https://github.com/lgarbayo/HackUDC-2026)**: document search engine with hybrid search and RAG chat with citations. HackUDC 2026 ([Devpost](https://devpost.com/software/meigasearch))
 
 <div align="center">
 
